@@ -59,7 +59,7 @@ Before you begin, ensure you have met the following requirements:
 
 6. Your notes will be saved to your browser's local storage, so they will persist even if you close the website or refresh the page.
 
-7. Enjoy using the Note-Pad Website to manage your notes efficiently!
+7. Enjoy using the Note-Pad Website and manage your notes efficiently!
 
 ## Contributing
 
